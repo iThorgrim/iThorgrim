@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.zupimages.net/up/24/13/eo74.png" title="" alt="" data-align="center">
 </p>
-<p>Hey there! It's me, iThorgrim, a die-hard World of Warcraft enthusiast for the past 12 years! 🌟</p>
+<p>Hey there! It's me, iThorgrim, a die-hard World of Warcraft enthusiast for the past 13 years! 🌟</p>
 <p>Started off with SQL, then dabbled in Lua and C#. Yep, you could say I've got eclectic tastes! 😄 Now, I'm here to share my passion for coding and World of Warcraft with you.</p>
 <br>
 <!-- Br is uggly ;)  -->
